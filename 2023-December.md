@@ -25,8 +25,32 @@ Obsidian Git plugin can be used to sync notes every x minutes.
 https://andymatuschak.org/
 https://nownownow.com/ - add /now to my website
 https://jukebox-thoughtandcraft.vercel.app/ - remix multiple image styles into a new image
+https://www.getpapercss.com/ - styling for website and card generation
+https://twitter.com/kvlly/status/1733525522972381256/photo/1 - git log generator
+
+
+## YouTube/Media summariser
+
+Cloudflare for (free?) llama or mistral API
+Python package for fetching video transcription
+summarise.frittynitty.com
+https://www.anyscale.com/endpoints - seems to be cheapest per million tokens
+
+In the future: 
+- summarise podcasts with faster-whisper?
+- react native app
+
+## Image to colouring in app
+
+ - Need to update existing python code to be an API for app
 
 ## Log
 
 Dec 9 - Almost finished unit activities, mowed grass
 Dec 10 - Finished activities (!!!)
+Dec 11 - Started looking into a youtube summariser using cloudflare. Began work on youtube-subtitle-transcript
+Dec 12 - Published youtube-subtitle-transcript
+Dec 13 - Wrote "publishing an npm package in 2023"
+
+
+
